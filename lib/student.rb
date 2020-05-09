@@ -7,6 +7,7 @@ def initialize
 end
 
 def learn(string)
+  
 
 end
 
